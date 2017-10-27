@@ -1,0 +1,10 @@
+org\app\entity\Item.class
+org\app\service\InitDbService.class
+org\app\controller\IndexController.class
+org\app\entity\User.class
+org\app\entity\Blog.class
+org\app\repository\BlogRepository.class
+org\app\repository\UserRepository.class
+org\app\repository\ItemRepository.class
+org\app\entity\Role.class
+org\app\repository\RoleRepository.class
